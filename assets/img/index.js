@@ -1,0 +1,11 @@
+export { default as microsoft } from './microsoft.png';
+export { default as google } from './google.png';
+export { default as spotify } from './spotify.png';
+export { default as tesla } from './tesla.png';
+export { default as yassir } from './yassir.png';
+export { default as tiktok } from './tiktok.png';
+export { default as itemOne } from './itemOne.png';
+export { default as itemTwo } from './itemTwo.png';
+export { default as itemThree } from './itemThree.png';
+export { default as itemFoure } from './itemFoure.png';
+export { default as itemFive } from './itemFive.png';
